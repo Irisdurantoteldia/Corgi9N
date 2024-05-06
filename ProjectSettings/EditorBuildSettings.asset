@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
-    guid: 888394d52616e5e42b3b54c3f2bbd3eb
-  - enabled: 1
-    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreen.unity
-    guid: d89b77a7a68c1844280c6ff2e49f95b8
+    path: Assets/CorgiEngine/Demos/StartScreen/StartScreen.unity
+    guid: b9cf7e391a5874f80a0485164885fe54
   - enabled: 1
     path: Assets/LVL POLLITO/LevelSelection.unity
     guid: 165cefa60643ec541949ab67134ee777
+  - enabled: 1
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
+    guid: 888394d52616e5e42b3b54c3f2bbd3eb
   - enabled: 1
     path: Assets/LVL POLLITO/Nivell 1.1.1.unity
     guid: 79c925d98db3dae449af1edcc7101fb0
